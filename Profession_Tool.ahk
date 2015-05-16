@@ -542,7 +542,7 @@
 		Gui, Add, Tab, x-8 y-1 w520 h280 +center, Profession Toolbox|Milling, Prospecting or Disenchanting
 		Gui, Tab, Profession Toolbox
 		Gui, Font, S8 CDefault, Verdana
-		Gui, Add, Text, x52 y109 w390 h20 cRed +Center, Latest Update: July 25th`, 2014
+		Gui, Add, Text, x52 y109 w390 h20 cRed +Center, Latest Update: May 16th`, 2015
 
 		Gui, Font, S12 Bold, Verdana
 		Gui, Add, Text, x52 y79 w390 h20 +Center, Version 2.0

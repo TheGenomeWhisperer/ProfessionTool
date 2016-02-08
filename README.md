@@ -1,4 +1,5 @@
 # ProfessionTool
+<font color='red'>**Note:** With profession changes this is mostly redundant now.</font>
 Assist with Milling / Enchanting / Prospecting in WOW
 
 I wrote this program because I was somewhat unsatisfied with the other options out there.  Also, I liked the idea of no memory hooks and pure keyboard simulation.  I felt it was important to be able to send keystrokes to the "background" windwos though, so it could be doing its work whilst I was doing something else.  Other "similar" projects only worked on the foreground window. This was as simple as hooking the windows "handle" and then pushing the keys to that window with the AHK "ControlSend" command.
